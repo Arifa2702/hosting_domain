@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-$w1e^)v1))o$sv6_3pzay)f!qzyd@!_m1-usi32ol-4u(kdz10
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1","livechat-web-app.herokuapp.com"]
+ALLOWED_HOSTS = ["127.0.0.1","livechatwebapp.herokuapp.com"]
 
 
 # Application definition
